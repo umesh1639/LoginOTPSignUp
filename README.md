@@ -1,10 +1,6 @@
 # LoginOTPSignUp
-Used
-MVC 5 
-Entity Framework 6 
 
-Highlights
-Technology 
+Technology Used
 
     MVC 5 
     Entity Framework 6 
