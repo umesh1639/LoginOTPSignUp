@@ -16,7 +16,7 @@ Controller & Model
 Views
 
     SendOTP: for generating OTP and sending to the specified Phone number.
-    SignUp: Signup for the unregistered user.
+    SignUp: Signup for the unregistered user.If Already registered then will show Already registered Only after OTP verification.
     SignIn: Verification of OTP and redirect to Welcome page after successful otp verification 
             (only if user is already registered otherwise it will redirect to SignIn Process)
             On SuccessFull log in Session will be created for 5 minutes.
