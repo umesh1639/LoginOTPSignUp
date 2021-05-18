@@ -22,3 +22,9 @@ Views
             On SuccessFull log in Session will be created for 5 minutes.
     Logout: Message (Successfully logout) and also kills the session.
     WelcomePage: Welcome Message
+    
+Twilio
+
+    Its a trial account unverified numbers wont get OTP
+    Have to verify Phone Number for Sending the OTP
+    
