@@ -1,0 +1,12 @@
+﻿@model Assignment.Models.UserData
+
+@{
+    ViewBag.Title = "WelcomePage";
+}
+
+
+
+@if (Session["Mobile"] != null)
+{
+    <h2>Welcome @Session["Mobile"].ToString() </h2>
+}
